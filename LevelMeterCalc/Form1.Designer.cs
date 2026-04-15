@@ -47,7 +47,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 9);
+            label1.Location = new Point(6, 12);
             label1.Name = "label1";
             label1.Size = new Size(32, 15);
             label1.TabIndex = 0;
@@ -56,7 +56,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(12, 60);
+            label2.Location = new Point(6, 60);
             label2.Name = "label2";
             label2.Size = new Size(38, 15);
             label2.TabIndex = 1;
@@ -65,11 +65,11 @@
             // trackBar1
             // 
             trackBar1.LargeChange = 10;
-            trackBar1.Location = new Point(56, 12);
+            trackBar1.Location = new Point(65, 12);
             trackBar1.Maximum = 5000;
             trackBar1.Minimum = 1000;
             trackBar1.Name = "trackBar1";
-            trackBar1.Size = new Size(700, 45);
+            trackBar1.Size = new Size(691, 45);
             trackBar1.SmallChange = 10;
             trackBar1.TabIndex = 2;
             trackBar1.TickFrequency = 20;
@@ -79,11 +79,11 @@
             // trackBar2
             // 
             trackBar2.LargeChange = 10;
-            trackBar2.Location = new Point(56, 60);
+            trackBar2.Location = new Point(65, 60);
             trackBar2.Maximum = 1000;
             trackBar2.Minimum = 250;
             trackBar2.Name = "trackBar2";
-            trackBar2.Size = new Size(700, 45);
+            trackBar2.Size = new Size(691, 45);
             trackBar2.SmallChange = 10;
             trackBar2.TabIndex = 3;
             trackBar2.TickFrequency = 3;
@@ -94,11 +94,11 @@
             // 
             trackBar3.BackColor = SystemColors.Control;
             trackBar3.LargeChange = 10;
-            trackBar3.Location = new Point(56, 111);
+            trackBar3.Location = new Point(65, 111);
             trackBar3.Maximum = 5000;
             trackBar3.Minimum = 300;
             trackBar3.Name = "trackBar3";
-            trackBar3.Size = new Size(700, 45);
+            trackBar3.Size = new Size(691, 45);
             trackBar3.SmallChange = 10;
             trackBar3.TabIndex = 4;
             trackBar3.TickFrequency = 20;
@@ -109,7 +109,7 @@
             // 
             textBox1.Location = new Point(762, 12);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(47, 23);
+            textBox1.Size = new Size(38, 23);
             textBox1.TabIndex = 6;
             textBox1.TextChanged += textBox1_TextChanged;
             // 
@@ -117,7 +117,7 @@
             // 
             textBox2.Location = new Point(762, 60);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(47, 23);
+            textBox2.Size = new Size(38, 23);
             textBox2.TabIndex = 7;
             textBox2.TextChanged += textBox2_TextChanged;
             // 
@@ -131,9 +131,9 @@
             // 
             // label3
             // 
-            label3.Location = new Point(12, 111);
+            label3.Location = new Point(6, 111);
             label3.Name = "label3";
-            label3.Size = new Size(38, 15);
+            label3.Size = new Size(53, 15);
             label3.TabIndex = 10;
             label3.Text = "label3";
             // 

@@ -18,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LevelMeterCalc\\LevelMeterCalc\\Form1.cs",
+              "RelativeDocumentMoniker": "LevelMeterCalc\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LevelMeterCalc\\LevelMeterCalc\\Form1.cs",
+              "RelativeToolTip": "LevelMeterCalc\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:36:49.476Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -29,23 +43,8 @@
               "ToolTip": "C:\\Users\\user\\source\\repos\\LevelMeterCalc\\LevelMeterCalc\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "LevelMeterCalc\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:18:56.293Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-04-15T06:16:19.557Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LevelMeterCalc\\LevelMeterCalc\\Form1.cs",
-              "RelativeDocumentMoniker": "LevelMeterCalc\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LevelMeterCalc\\LevelMeterCalc\\Form1.cs",
-              "RelativeToolTip": "LevelMeterCalc\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:36:49.476Z",
-              "IsPinned": true,
-              "EditorCaption": ""
             }
           ]
         }

@@ -14,3 +14,4 @@ C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-win
 C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.pdb
 C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.genruntimeconfig.cache
 C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\ref\LevelMeterCalc.dll
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.sourcelink.json

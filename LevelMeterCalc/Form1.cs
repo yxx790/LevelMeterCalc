@@ -7,7 +7,7 @@ namespace LevelMeterCalc
         private void calc()
         {
             textBox3.Text = trackBar3.Value.ToString();
-            label3.Text = Math.Round((((20 - 4) / (trackBar1.Value * 1.0 - trackBar2.Value * 1.0)) * (trackBar1.Value * 1.0 - trackBar3.Value * 1.0) + 4) ,2).ToString();
+            label3.Text = Math.Round((((20 - 4) / (trackBar1.Value * 1.0 - trackBar2.Value * 1.0)) * (trackBar1.Value * 1.0 - trackBar3.Value * 1.0) + 4) ,2).ToString() + "mA";
         }
         public Form1()
         {
