@@ -1,0 +1,200 @@
+﻿namespace LevelMeterCalc
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            label1 = new Label();
+            label2 = new Label();
+            trackBar1 = new TrackBar();
+            trackBar2 = new TrackBar();
+            trackBar3 = new TrackBar();
+            textBox1 = new TextBox();
+            textBox2 = new TextBox();
+            textBox3 = new TextBox();
+            label3 = new Label();
+            label4 = new Label();
+            label5 = new Label();
+            ((System.ComponentModel.ISupportInitialize)trackBar1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)trackBar2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)trackBar3).BeginInit();
+            SuspendLayout();
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(12, 9);
+            label1.Name = "label1";
+            label1.Size = new Size(32, 15);
+            label1.TabIndex = 0;
+            label1.Text = "4mA";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(12, 60);
+            label2.Name = "label2";
+            label2.Size = new Size(38, 15);
+            label2.TabIndex = 1;
+            label2.Text = "20mA";
+            // 
+            // trackBar1
+            // 
+            trackBar1.LargeChange = 10;
+            trackBar1.Location = new Point(56, 12);
+            trackBar1.Maximum = 5000;
+            trackBar1.Minimum = 1000;
+            trackBar1.Name = "trackBar1";
+            trackBar1.Size = new Size(700, 45);
+            trackBar1.SmallChange = 10;
+            trackBar1.TabIndex = 2;
+            trackBar1.TickFrequency = 20;
+            trackBar1.Value = 2400;
+            trackBar1.Scroll += trackBar1_Scroll;
+            // 
+            // trackBar2
+            // 
+            trackBar2.LargeChange = 10;
+            trackBar2.Location = new Point(56, 60);
+            trackBar2.Maximum = 1000;
+            trackBar2.Minimum = 250;
+            trackBar2.Name = "trackBar2";
+            trackBar2.Size = new Size(700, 45);
+            trackBar2.SmallChange = 10;
+            trackBar2.TabIndex = 3;
+            trackBar2.TickFrequency = 3;
+            trackBar2.Value = 300;
+            trackBar2.Scroll += trackBar2_Scroll;
+            // 
+            // trackBar3
+            // 
+            trackBar3.BackColor = SystemColors.Control;
+            trackBar3.LargeChange = 10;
+            trackBar3.Location = new Point(56, 111);
+            trackBar3.Maximum = 5000;
+            trackBar3.Minimum = 300;
+            trackBar3.Name = "trackBar3";
+            trackBar3.Size = new Size(700, 45);
+            trackBar3.SmallChange = 10;
+            trackBar3.TabIndex = 4;
+            trackBar3.TickFrequency = 20;
+            trackBar3.Value = 2020;
+            trackBar3.Scroll += trackBar3_Scroll;
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(762, 12);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(47, 23);
+            textBox1.TabIndex = 6;
+            textBox1.TextChanged += textBox1_TextChanged;
+            // 
+            // textBox2
+            // 
+            textBox2.Location = new Point(762, 60);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(47, 23);
+            textBox2.TabIndex = 7;
+            textBox2.TextChanged += textBox2_TextChanged;
+            // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(762, 111);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(38, 23);
+            textBox3.TabIndex = 9;
+            textBox3.TextChanged += textBox3_TextChanged;
+            // 
+            // label3
+            // 
+            label3.Location = new Point(12, 111);
+            label3.Name = "label3";
+            label3.Size = new Size(38, 15);
+            label3.TabIndex = 10;
+            label3.Text = "label3";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(762, 38);
+            label4.Name = "label4";
+            label4.Size = new Size(60, 15);
+            label4.TabIndex = 11;
+            label4.Text = "1000-5000";
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(762, 86);
+            label5.Name = "label5";
+            label5.Size = new Size(54, 15);
+            label5.TabIndex = 12;
+            label5.Text = "250-1000";
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(821, 148);
+            Controls.Add(label5);
+            Controls.Add(label4);
+            Controls.Add(label3);
+            Controls.Add(textBox3);
+            Controls.Add(textBox2);
+            Controls.Add(textBox1);
+            Controls.Add(trackBar3);
+            Controls.Add(trackBar2);
+            Controls.Add(trackBar1);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            Location = new Point(80, 700);
+            Name = "Form1";
+            StartPosition = FormStartPosition.Manual;
+            Text = "LevelMeterCalc";
+            ((System.ComponentModel.ISupportInitialize)trackBar1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)trackBar2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)trackBar3).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private Label label1;
+        private Label label2;
+        private TrackBar trackBar1;
+        private TrackBar trackBar2;
+        private TrackBar trackBar3;
+        private TextBox textBox1;
+        private TextBox textBox2;
+        private TextBox textBox3;
+        private Label label3;
+        private Label label4;
+        private Label label5;
+    }
+}

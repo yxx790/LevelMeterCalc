@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\bin\Release\net10.0-windows\publish\win-x64\LevelMeterCalc.exe
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\bin\Release\net10.0-windows\publish\win-x64\LevelMeterCalc.deps.json
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\bin\Release\net10.0-windows\publish\win-x64\LevelMeterCalc.runtimeconfig.json
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\bin\Release\net10.0-windows\publish\win-x64\LevelMeterCalc.pdb
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\bin\Release\net10.0-windows\publish\win-x64\LevelMeterCalc.dll

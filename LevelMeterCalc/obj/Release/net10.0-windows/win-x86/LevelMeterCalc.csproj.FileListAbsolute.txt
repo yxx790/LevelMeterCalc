@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\bin\Release\net10.0-windows\win-x86\LevelMeterCalc.exe
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\bin\Release\net10.0-windows\win-x86\LevelMeterCalc.deps.json
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\bin\Release\net10.0-windows\win-x86\LevelMeterCalc.runtimeconfig.json
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\bin\Release\net10.0-windows\win-x86\LevelMeterCalc.dll
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\bin\Release\net10.0-windows\win-x86\LevelMeterCalc.pdb
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.Form1.resources
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.AssemblyInfo.cs
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.dll
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\refint\LevelMeterCalc.dll
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.pdb
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\LevelMeterCalc.genruntimeconfig.cache
+C:\Users\user\source\repos\LevelMeterCalc\LevelMeterCalc\obj\Release\net10.0-windows\win-x86\ref\LevelMeterCalc.dll
